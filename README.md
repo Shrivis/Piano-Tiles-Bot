@@ -21,5 +21,8 @@ it'll tell you the exact coordinates of your mouse pointer. Just point at locati
 **Using the Failsafe:**</br> 
 the program run in an infinite loop and clicks on anything black or blue within gameBox, </br>just move the mouse outside the gameBox and the program will terminate
 
+**I tested this game bot on:**</br>
+*https://www.silvergames.com/en/piano-tiles-2*
+
 contact:</br>
 shrivis@hotmail.com for any query
