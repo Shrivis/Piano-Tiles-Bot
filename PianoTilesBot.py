@@ -41,7 +41,7 @@ while True: # Game loop
         if img.pixel(x, 0)[0] < 50: # increase to 70 if misses blue tiles
             gui.click(x+x1, y2+10)
             score += 1
-        # Fail safe, terminates if mouse goes out of gameBox
+        # Fail safe, terminates if mouse goes out of gameBox 
         mousePos = gui.position()[0]
         if x1 > mousePos or x4 < mousePos:
             print('Fuck! not again!')
